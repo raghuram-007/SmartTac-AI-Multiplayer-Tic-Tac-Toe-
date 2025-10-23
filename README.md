@@ -26,7 +26,7 @@ The system includes authentication, leaderboard tracking, and adaptive AI that l
 
 ### ⚙️ Backend
 - **Django + Channels** for real-time multiplayer
-- **FastAPI** for AI and Q-learning API logic
+- **Django Rest Framework API** for AI and Q-learning API logic
 - **PostgreSQL/MySQL** as database
 
 ### 💻 Frontend
